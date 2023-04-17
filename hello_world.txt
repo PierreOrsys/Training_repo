@@ -5,3 +5,4 @@ Add new line
 Add conflict occurence
 line added by ilario
 
+IRE > create 2nd conflict
